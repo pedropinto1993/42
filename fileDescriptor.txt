@@ -1,0 +1,5 @@
+Estou escrevendo esse texto para ser lido pelo meu programa.
+Esta é a segunda linha do meu texto.
+Será que ele chegará até aqui?
+Parece desafiador.
+Challenge accepted!
